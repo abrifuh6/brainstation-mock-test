@@ -45,5 +45,5 @@ for (n = 0; n <= 5; n++){
 Step 3
 Remove the last number in the array and console.log the array.
 */
-numberList.splice -1;
+numberList.splice (-1);
 console.log (numberList);
