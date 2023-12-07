@@ -7,6 +7,11 @@ Create two variables called "num1" and "num2". Assign each variable a different 
 let num1 = 3
 let num2 = 15
 
+/*=========== To test the second condition in step2, uncomment the 2 lines of code below and comment the 2 lines above ===========*/
+
+//let num1 = 2
+//let num2 = 4
+
 /*
 Step 2
 Using the variables above, add these variables together and multiply by 3.
@@ -14,6 +19,7 @@ Assign the expression to a variable called "result" and console.log its value.
 */
 let result = (num1 + num2) * 3
 console.log (result)
+
 /*
 Step 3
 Using the result variable, write an if/else statement comparing the result to the number 50.
