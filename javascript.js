@@ -38,8 +38,12 @@ Using a for loop, place the numbers from 0 to 5 into the "numberList" array.
 console.log the numberList array.
 */
 for (n = 0; n <= 5; n++){
- }
+  numberList.push(n)};
+
+  console.log (numberList);
 /*
 Step 3
 Remove the last number in the array and console.log the array.
 */
+numberList.splice -1;
+console.log (numberList);
